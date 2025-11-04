@@ -1,4 +1,4 @@
-👋 Hi there, I'm Mahek Shah!
+👋 Hello there, I'm Mahek Shah!
 Aspiring Data Scientist | Python & SQL Enthusiast | ML & Web Development Learner
 
 - 🌱 I’m currently learning **Data Science**, **Machine Learning**, and **Cloud Deployment**
